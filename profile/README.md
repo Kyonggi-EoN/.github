@@ -1,12 +1,5 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=EoN&fontSize=80&fontColor=fff&animation=fadeIn&desc=Electronic%20Over%20Network&descSize=20&descAlignY=75)
-
-[![Kyonggi University](https://img.shields.io/badge/Kyonggi_University-003087?style=flat-square&logo=university&logoColor=white)](https://www.kyonggi.ac.kr)
-[![Department](https://img.shields.io/badge/Electronic_Engineering-0066CC?style=flat-square)](https://github.com/Kyonggi-EoN)
-[![Since](https://img.shields.io/badge/Since-2005-red?style=flat-square)]()
-[![Email](https://img.shields.io/badge/Email-kyonggieon@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kyonggieon@gmail.com)
-
+  <img src="assets/header.svg" alt="EoN Header" width="100%"/>
 </div>
 
 ---
