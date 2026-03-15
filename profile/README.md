@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+EoN%3BElectronic+Over+Network%3BExploring+AI+and+Edge+Computing%3BDesigning+Future+Semiconductors&color=FF0000%3BDC00C9%3B4A62FF%3B008BE4" alt="Typing SVG" />
 </p>
 
-# ⚡ EoN - Electronic Over Network
 ### Kyonggi University | Department of Electronic Engineering
 
 경기대학교 전자공학과 학술 동아리 EoN에 오신 것을 환영합니다!
