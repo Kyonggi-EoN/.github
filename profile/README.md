@@ -14,13 +14,40 @@
 ## Main Interests
 **우리는 하드웨어와 소프트웨어의 경계를 허물고, 최신 기술 트렌드를 연구합니다.**
 
-| 분류 | 세부 분야 | 관련 활동 |
-| :-- | :-- | :-- |
-| **AI Conference** | Deep Learning, Computer Vision, NLP | 최신 논문 리뷰 및 글로벌 컨퍼런스 트렌드 파악 |
-| **Contests** | 학술대회 및 ICT 공모전 | Hanium ICT 멘토링, 임베디드 SW 경진대회 등 |
-| **Software** | AI, VLA (Vision-Language-Action), Edge AI | 알고리즘 설계, 모델 최적화 및 배포 |
-| **Hardware** | 반도체 공정 및 설계 (Frontend/Backend) | Verilog HDL, Layout Design (KLayout), 공정 분석 |
-
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI Conference</h3>
+      <ul>
+        <li><b>세부 분야:</b> Deep Learning, Computer Vision, NLP</li>
+        <li><b>관련 활동:</b> 최신 논문 리뷰 및 글로벌 컨퍼런스 트렌드 파악</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🏆 Contests</h3>
+      <ul>
+        <li><b>세부 분야:</b> 학술대회 및 ICT 공모전</li>
+        <li><b>관련 활동:</b> Hanium ICT 멘토링, 임베디드 SW 경진대회 등</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💻 Software</h3>
+      <ul>
+        <li><b>세부 분야:</b> AI, VLA (Vision-Language-Action), Edge AI</li>
+        <li><b>관련 활동:</b> 알고리즘 설계, 모델 최적화 및 배포</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>⚙️ Hardware</h3>
+      <ul>
+        <li><b>세부 분야:</b> 반도체 공정 및 설계 (Frontend/Backend)</li>
+        <li><b>관련 활동:</b> Verilog HDL, Layout Design (KLayout), 공정 분석</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 ---
 
 ---
@@ -34,11 +61,11 @@
   
 --- 
 ## Tech Stack
-**Software & AI** ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-**Hardware & Embedded** ![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
