@@ -2,8 +2,6 @@
   <img src="assets/header.svg" alt="EoN Header" width="100%"/>
 </div>
 
----
-
 ## EoN이란?
 
 경기대학교 전자공학과 학술 동아리 EoN에 오신 것을 환영합니다!
@@ -66,13 +64,13 @@
 ---
 
 ## Tech Stack
-
+<div align="center">
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
+</div>
 ---
 
 ## Contact
@@ -82,8 +80,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Kyonggi--EoN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kyonggi-EoN)   
 
 [![Naver Cafe](https://img.shields.io/badge/Naver_Cafe-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://cafe.naver.com/kyonggieon)
-
----
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
 
