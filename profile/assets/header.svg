@@ -30,16 +30,6 @@
     x="330" y="36" width="240" height="240"
     filter="url(#logoGlow)"/>
 
-  <!-- Main wordmark -->
-  <text
-    x="450" y="316"
-    text-anchor="middle"
-    font-family="'Arial Black', 'Helvetica Neue', sans-serif"
-    font-size="76"
-    font-weight="900"
-    letter-spacing="16"
-    fill="#f0f0f0">E<tspan fill="#dc0000">o</tspan>N</text>
-
   <!-- subtitle -->
   <text
     x="450" y="348"
