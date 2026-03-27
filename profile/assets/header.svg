@@ -30,19 +30,6 @@
     x="330" y="36" width="240" height="240"
     filter="url(#logoGlow)"/>
 
-  <!-- EoN wordmark — dark-mode friendly: white with red accent -->
-  <!-- Outline/shadow for light mode readability -->
-  <text
-    x="450" y="316"
-    text-anchor="middle"
-    font-family="'Arial Black', 'Helvetica Neue', sans-serif"
-    font-size="76"
-    font-weight="900"
-    letter-spacing="16"
-    fill="none"
-    stroke="rgba(0,0,0,0.18)"
-    stroke-width="6"
-    paint-order="stroke">E<tspan fill="none">o</tspan>N</text>
   <!-- Main wordmark -->
   <text
     x="450" y="316"
